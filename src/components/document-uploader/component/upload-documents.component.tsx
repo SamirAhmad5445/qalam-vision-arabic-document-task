@@ -32,7 +32,7 @@ export const UploadDocuments = () => (
             <PhotoIcon />
           </span>
         </div>
-        <span className="mx-auto mt-6 w-fit text-slate-400 *:size-12">
+        <span className="mx-auto mt-6 block w-fit text-slate-400 *:size-12">
           <UploadIcon />
         </span>
       </div>
