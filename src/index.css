@@ -12,7 +12,11 @@
   }
 
   body {
-    @apply font-inter;
+    @apply bg-primary-50 font-inter;
+  }
+
+  #root {
+    min-height: 100svh;
   }
 }
 
